@@ -7,7 +7,7 @@ A day 0 tool for getting your app on k8s fast
 - **Latest release**: `v0.17.15` (2026-06-17)
 - **Last commit**: 2026-08-07
 - **License**: MIT
-- **Stars**: 643 · **Forks**: 74 · **Open issues**: 50 · **Contributors**: 31
+- **Stars**: 644 · **Forks**: 74 · **Open issues**: 50 · **Contributors**: 31
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/draft> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:03:35Z._
+_Last regenerated: 2026-09-09T04:49:25Z._
