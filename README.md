@@ -22,7 +22,16 @@ x install draft
 - **Latest**: `v0.17.15` (2026-06-17)
 - **Last commit**: 2026-08-07
 - **Assets in release**: 5
-- **Published**: 2026-06-17T17:08:46Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [draft-darwin-amd64](https://github.com/Azure/draft/releases/download/v0.17.15/draft-darwin-amd64) | 95.9 MiB | `native/darwin/x64` |
+| [draft-darwin-arm64](https://github.com/Azure/draft/releases/download/v0.17.15/draft-darwin-arm64) | 101.1 MiB | `native/darwin/arm64` |
+| [draft-linux-amd64](https://github.com/Azure/draft/releases/download/v0.17.15/draft-linux-amd64) | 93.1 MiB | `native/linux/x64` |
+| [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.15/draft-linux-arm64) | 87.9 MiB | `native/linux/arm64` |
+| [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.15/draft-windows-amd64.exe) | 94.1 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +66,8 @@ Total: **36,524** lines of code across **408** files in the top 5 languages.
 Install metadata for draft lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `draft` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/draft.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/draft.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:00:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:47Z._
