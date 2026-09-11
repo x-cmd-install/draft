@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.17.15"
   latestRelease: "v0.17.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:47:30Z
+  collectedAt: 2026-09-11T20:10:46Z
 timeline:
   created: 2021-11-18
   lastCommit: 2026-08-07
@@ -90,7 +90,7 @@ total:
   commit: 552
 ---
 path: /home/runner/.x-repo/github.com/Azure/draft
-collectedAt: 2026-09-11T04:47:32Z
+collectedAt: 2026-09-11T20:10:49Z
 loc:
   Go:
     code: 18366
