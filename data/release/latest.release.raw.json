@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 97626538,
       "digest": "sha256:51e3145716183621edd22d4f9f60b1e77458f405c43368a6b772450f0ccee61f",
-      "download_count": 352,
+      "download_count": 353,
       "created_at": "2026-07-21T23:05:54Z",
       "updated_at": "2026-07-21T23:06:05Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.15/draft-linux-amd64"
