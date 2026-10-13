@@ -14,12 +14,12 @@ x install draft
 
 ## Code insight
 
-Total: **36,524** lines of code across **408** files in the top 5 languages.
+Total: **37,350** lines of code across **408** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 18,366 | 543 | 1,659 | 102 |
-| Yaml | 16,905 | 417 | 455 | 268 |
+| Go | 19,193 | 659 | 1,737 | 102 |
+| Yaml | 16,904 | 417 | 455 | 268 |
 | Dockerfile | 367 | 4 | 120 | 30 |
 | Sh | 348 | 23 | 60 | 4 |
 | Json | 272 | 0 | 0 | 4 |
@@ -32,7 +32,7 @@ Total: **36,524** lines of code across **408** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.17.15` (2026-06-17)
-- **Last commit**: 2026-08-07
+- **Last commit**: 2026-10-13
 - **Assets in release**: 5
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **36,524** lines of code across **408** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 437 · **Open PRs**: 8 · **Closed issues**: 30 · **Open issues**: 20 · **Commits**: 552
+- **Releases**: 57 · **Merged PRs**: 438 · **Open PRs**: 8 · **Closed issues**: 30 · **Open issues**: 20 · **Commits**: 554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-07-14 | 0 | 3 | 7 | 0 | 0 | 4 |
-| last180d | 2026-04-15 | 1 | 8 | 7 | 0 | 0 | 12 |
-| 360d | 2025-10-17 | 2 | 63 | 7 | 1 | 0 | 58 |
-| last720d | 2024-10-22 | 19 | 167 | 8 | 4 | 7 | 176 |
+| 30d | 2026-09-13 | 0 | 1 | 5 | 0 | 0 | 2 |
+| last60d | 2026-08-14 | 0 | 1 | 6 | 0 | 0 | 2 |
+| 90d | 2026-07-15 | 0 | 4 | 7 | 0 | 0 | 6 |
+| last180d | 2026-04-16 | 1 | 9 | 7 | 0 | 0 | 14 |
+| 360d | 2025-10-18 | 2 | 64 | 7 | 1 | 0 | 60 |
+| last720d | 2024-10-23 | 18 | 166 | 8 | 4 | 7 | 176 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for draft lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:11:22Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:02:08Z._
