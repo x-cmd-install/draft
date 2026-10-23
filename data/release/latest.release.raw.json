@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Azure/draft/releases/411966613",
-  "assets_url": "https://api.github.com/repos/Azure/draft/releases/411966613/assets",
-  "upload_url": "https://uploads.github.com/repos/Azure/draft/releases/411966613/assets{?name,label}",
-  "html_url": "https://github.com/Azure/draft/releases/tag/v0.17.16",
-  "id": 411966613,
+  "url": "https://api.github.com/repos/Azure/draft/releases/421306639",
+  "assets_url": "https://api.github.com/repos/Azure/draft/releases/421306639/assets",
+  "upload_url": "https://uploads.github.com/repos/Azure/draft/releases/421306639/assets{?name,label}",
+  "html_url": "https://github.com/Azure/draft/releases/tag/v0.17.17",
+  "id": 421306639,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOGZnMqs4YjhyV",
-  "tag_name": "v0.17.16",
+  "node_id": "RE_kwDOGZnMqs4ZHKEP",
+  "tag_name": "v0.17.17",
   "target_commitish": "main",
-  "name": "v0.17.16",
+  "name": "v0.17.17",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-13T17:49:51Z",
-  "updated_at": "2026-10-13T18:06:59Z",
-  "published_at": "2026-10-13T18:06:59Z",
+  "created_at": "2026-10-22T23:35:01Z",
+  "updated_at": "2026-10-22T23:42:33Z",
+  "published_at": "2026-10-22T23:42:33Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/Azure/draft/releases/assets/637841262",
-      "id": 637841262,
-      "node_id": "RA_kwDOGZnMqs4mBK9u",
+      "url": "https://api.github.com/repos/Azure/draft/releases/assets/667412954",
+      "id": 667412954,
+      "node_id": "RA_kwDOGZnMqs4nx-na",
       "name": "draft-darwin-amd64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 102793568,
-      "digest": "sha256:4e0e1bafdb3c28b78c751cb3919136d604346bd71268033d66bce0cdba8970a1",
-      "download_count": 3,
-      "created_at": "2026-10-13T18:06:51Z",
-      "updated_at": "2026-10-13T18:06:57Z",
-      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.16/draft-darwin-amd64"
+      "size": 103086496,
+      "digest": "sha256:621e4c8be80ce006285da5446ac38f3d91a6717e69b86e274aa6f7737815452d",
+      "download_count": 1,
+      "created_at": "2026-10-22T23:42:25Z",
+      "updated_at": "2026-10-22T23:42:30Z",
+      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-amd64"
     },
     {
-      "url": "https://api.github.com/repos/Azure/draft/releases/assets/637841271",
-      "id": 637841271,
-      "node_id": "RA_kwDOGZnMqs4mBK93",
+      "url": "https://api.github.com/repos/Azure/draft/releases/assets/667412948",
+      "id": 667412948,
+      "node_id": "RA_kwDOGZnMqs4nx-nU",
       "name": "draft-darwin-arm64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 97984290,
-      "digest": "sha256:f496d1d510574b991ac46bbcfd65701b0e2f1db622a9f78c195ae5abdab2608c",
-      "download_count": 16,
-      "created_at": "2026-10-13T18:06:51Z",
-      "updated_at": "2026-10-13T18:06:57Z",
-      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.16/draft-darwin-arm64"
+      "size": 98242338,
+      "digest": "sha256:ecf59cc153ea1bf5a8b9e4006a79c29fac2e223be0225f8e079013cbe294255a",
+      "download_count": 1,
+      "created_at": "2026-10-22T23:42:25Z",
+      "updated_at": "2026-10-22T23:42:32Z",
+      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-arm64"
     },
     {
-      "url": "https://api.github.com/repos/Azure/draft/releases/assets/637841261",
-      "id": 637841261,
-      "node_id": "RA_kwDOGZnMqs4mBK9t",
+      "url": "https://api.github.com/repos/Azure/draft/releases/assets/667412952",
+      "id": 667412952,
+      "node_id": "RA_kwDOGZnMqs4nx-nY",
       "name": "draft-linux-amd64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 126077016,
-      "digest": "sha256:38a479a5b1a2e109760fff3526a082c274d6fe53c6d7424faae267aa27939f02",
-      "download_count": 29,
-      "created_at": "2026-10-13T18:06:51Z",
-      "updated_at": "2026-10-13T18:06:58Z",
-      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.16/draft-linux-amd64"
+      "size": 126426656,
+      "digest": "sha256:c4950869bb781dca1af0d181af948d80ab3d6684924416a837f10dea216a5956",
+      "download_count": 1,
+      "created_at": "2026-10-22T23:42:25Z",
+      "updated_at": "2026-10-22T23:42:31Z",
+      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-amd64"
     },
     {
-      "url": "https://api.github.com/repos/Azure/draft/releases/assets/637841264",
-      "id": 637841264,
-      "node_id": "RA_kwDOGZnMqs4mBK9w",
+      "url": "https://api.github.com/repos/Azure/draft/releases/assets/667412959",
+      "id": 667412959,
+      "node_id": "RA_kwDOGZnMqs4nx-nf",
       "name": "draft-linux-arm64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 94234911,
-      "digest": "sha256:d6bfe4ba7b176e991e441d6727d7e47826972c3c6add39cb1cd745d2e5ecb6e8",
-      "download_count": 3,
-      "created_at": "2026-10-13T18:06:51Z",
-      "updated_at": "2026-10-13T18:06:56Z",
-      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.16/draft-linux-arm64"
+      "size": 94445313,
+      "digest": "sha256:fe8ecde3a60ee5af6b1b3227253586a594e55c2f5172463e3bc0b0ed5e1731bb",
+      "download_count": 1,
+      "created_at": "2026-10-22T23:42:25Z",
+      "updated_at": "2026-10-22T23:42:30Z",
+      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/Azure/draft/releases/assets/637841266",
-      "id": 637841266,
-      "node_id": "RA_kwDOGZnMqs4mBK9y",
+      "url": "https://api.github.com/repos/Azure/draft/releases/assets/667412949",
+      "id": 667412949,
+      "node_id": "RA_kwDOGZnMqs4nx-nV",
       "name": "draft-windows-amd64.exe",
       "label": "",
       "uploader": {
@@ -209,15 +209,15 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 100864000,
-      "digest": "sha256:f06581001aae65f789c11abe8724dda35b5abe4f0be06c61b31a5b7d706e2b69",
-      "download_count": 41,
-      "created_at": "2026-10-13T18:06:51Z",
-      "updated_at": "2026-10-13T18:06:57Z",
-      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.16/draft-windows-amd64.exe"
+      "size": 101127680,
+      "digest": "sha256:c819dbd6b4aa6537f763c587468056c8be4eec4812f792a46bf03860b9c30501",
+      "download_count": 2,
+      "created_at": "2026-10-22T23:42:25Z",
+      "updated_at": "2026-10-22T23:42:30Z",
+      "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-windows-amd64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/Azure/draft/tarball/v0.17.16",
-  "zipball_url": "https://api.github.com/repos/Azure/draft/zipball/v0.17.16",
-  "body": "\n- Security: validate and encode template variables to prevent instruction injection in generated artifacts ([GHSA-xqmq-h7rh-g4cq](https://github.com/Azure/draft/security/advisories/GHSA-xqmq-h7rh-g4cq))"
+  "tarball_url": "https://api.github.com/repos/Azure/draft/tarball/v0.17.17",
+  "zipball_url": "https://api.github.com/repos/Azure/draft/zipball/v0.17.17",
+  "body": "\n- [795](https://github.com/Azure/draft/pull/795) Accept newline-separated manifest path lists for `MANIFESTPATH` and `DEPLOYMENTMANIFESTPATH`\n- [796](https://github.com/Azure/draft/pull/796) Bump Go dependencies and group Dependabot security updates\n- Dependabot updates for dependencies and actions"
 }
