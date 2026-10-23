@@ -31,38 +31,46 @@ Total: **37,276** lines of code across **408** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.17.16` (2026-10-13)
+- **Latest**: `v0.17.17` (2026-10-22)
 - **Last commit**: 2026-10-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 646 · **Forks**: 74 · **Open issues**: 50 · **Contributors**: 31
+- **Stars**: 647 · **Forks**: 74 · **Open issues**: 50 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 447 · **Open PRs**: 1 · **Closed issues**: 31 · **Open issues**: 19 · **Commits**: 563
+- **Releases**: 59 · **Merged PRs**: 449 · **Open PRs**: 1 · **Closed issues**: 31 · **Open issues**: 19 · **Commits**: 565
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 10 | 0 | 0 | 0 | 11 |
-| last60d | 2026-08-23 | 1 | 10 | 0 | 0 | 0 | 11 |
-| 90d | 2026-07-24 | 1 | 12 | 0 | 0 | 0 | 13 |
-| last180d | 2026-04-25 | 2 | 18 | 0 | 0 | 0 | 19 |
-| 360d | 2025-10-27 | 3 | 73 | 0 | 1 | 0 | 69 |
-| last720d | 2024-11-01 | 18 | 175 | 1 | 5 | 5 | 180 |
+| 30d | 2026-09-23 | 2 | 12 | 0 | 0 | 0 | 13 |
+| last60d | 2026-08-24 | 2 | 12 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-25 | 2 | 14 | 0 | 0 | 0 | 15 |
+| last180d | 2026-04-26 | 3 | 20 | 0 | 0 | 0 | 21 |
+| 360d | 2025-10-28 | 4 | 75 | 0 | 1 | 0 | 71 |
+| last720d | 2024-11-02 | 19 | 177 | 1 | 5 | 5 | 182 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [draft-darwin-amd64](https://github.com/Azure/draft/releases/download/v0.17.16/draft-darwin-amd64) | 98.0 MiB | `native/darwin/x64` |
-| [draft-darwin-arm64](https://github.com/Azure/draft/releases/download/v0.17.16/draft-darwin-arm64) | 93.4 MiB | `native/darwin/arm64` |
-| [draft-linux-amd64](https://github.com/Azure/draft/releases/download/v0.17.16/draft-linux-amd64) | 120.2 MiB | `native/linux/x64` |
-| [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.16/draft-linux-arm64) | 89.9 MiB | `native/linux/arm64` |
-| [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.16/draft-windows-amd64.exe) | 96.2 MiB | `native/win/x64` |
+| [draft-darwin-amd64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-amd64) | 98.3 MiB | `native/darwin/x64` |
+| [draft-darwin-arm64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-arm64) | 93.7 MiB | `native/darwin/arm64` |
+| [draft-linux-amd64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-amd64) | 120.6 MiB | `native/linux/x64` |
+| [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-arm64) | 90.1 MiB | `native/linux/arm64` |
+| [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.17/draft-windows-amd64.exe) | 96.4 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/draft). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.17.16` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +81,4 @@ Install metadata for draft lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:57Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:07Z._
