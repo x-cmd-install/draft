@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 103086496,
       "digest": "sha256:621e4c8be80ce006285da5446ac38f3d91a6717e69b86e274aa6f7737815452d",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:30Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 98242338,
       "digest": "sha256:ecf59cc153ea1bf5a8b9e4006a79c29fac2e223be0225f8e079013cbe294255a",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:32Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126426656,
       "digest": "sha256:c4950869bb781dca1af0d181af948d80ab3d6684924416a837f10dea216a5956",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:31Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 94445313,
       "digest": "sha256:fe8ecde3a60ee5af6b1b3227253586a594e55c2f5172463e3bc0b0ed5e1731bb",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:30Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101127680,
       "digest": "sha256:c819dbd6b4aa6537f763c587468056c8be4eec4812f792a46bf03860b9c30501",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:30Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-windows-amd64.exe"
