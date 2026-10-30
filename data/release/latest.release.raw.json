@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126426656,
       "digest": "sha256:c4950869bb781dca1af0d181af948d80ab3d6684924416a837f10dea216a5956",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:31Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101127680,
       "digest": "sha256:c819dbd6b4aa6537f763c587468056c8be4eec4812f792a46bf03860b9c30501",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-22T23:42:25Z",
       "updated_at": "2026-10-22T23:42:30Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.17/draft-windows-amd64.exe"
