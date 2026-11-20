@@ -31,8 +31,8 @@ x install draft
 
 ## 发布
 
-- **最新版本**: `v0.17.17` (2026-10-22)
-- **最近提交**: 2026-11-17
+- **最新版本**: `v0.17.18` (2026-11-19)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -41,28 +41,28 @@ x install draft
 
 ## 累计统计
 
-- **发布数**: 59 · **已合并 PR**: 451 · **开放 PR**: 2 · **已关闭 issue**: 31 · **开放 issue**: 19 · **提交数**: 567
+- **发布数**: 60 · **已合并 PR**: 452 · **开放 PR**: 2 · **已关闭 issue**: 31 · **开放 issue**: 19 · **提交数**: 568
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 5 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-20 | 2 | 14 | 2 | 0 | 0 | 15 |
-| 90d | 2026-08-21 | 2 | 14 | 2 | 0 | 0 | 15 |
-| last180d | 2026-05-23 | 3 | 20 | 2 | 0 | 0 | 21 |
-| 360d | 2025-11-24 | 4 | 71 | 2 | 0 | 0 | 72 |
-| last720d | 2024-11-29 | 19 | 172 | 2 | 3 | 3 | 175 |
+| 30d | 2026-10-21 | 2 | 5 | 2 | 0 | 0 | 3 |
+| last60d | 2026-09-21 | 3 | 15 | 2 | 0 | 0 | 16 |
+| 90d | 2026-08-22 | 3 | 15 | 2 | 0 | 0 | 16 |
+| last180d | 2026-05-24 | 4 | 21 | 2 | 0 | 0 | 22 |
+| 360d | 2025-11-25 | 5 | 72 | 2 | 0 | 0 | 73 |
+| last720d | 2024-11-30 | 20 | 173 | 2 | 3 | 3 | 176 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [draft-darwin-amd64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-amd64) | 98.3 MiB | `native/darwin/x64` |
-| [draft-darwin-arm64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-darwin-arm64) | 93.7 MiB | `native/darwin/arm64` |
-| [draft-linux-amd64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-amd64) | 120.6 MiB | `native/linux/x64` |
-| [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.17/draft-linux-arm64) | 90.1 MiB | `native/linux/arm64` |
-| [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.17/draft-windows-amd64.exe) | 96.4 MiB | `native/win/x64` |
+| [draft-darwin-amd64](https://github.com/Azure/draft/releases/download/v0.17.18/draft-darwin-amd64) | 98.3 MiB | `native/darwin/x64` |
+| [draft-darwin-arm64](https://github.com/Azure/draft/releases/download/v0.17.18/draft-darwin-arm64) | 93.7 MiB | `native/darwin/arm64` |
+| [draft-linux-amd64](https://github.com/Azure/draft/releases/download/v0.17.18/draft-linux-amd64) | 120.6 MiB | `native/linux/x64` |
+| [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.18/draft-linux-arm64) | 90.1 MiB | `native/linux/arm64` |
+| [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.18/draft-windows-amd64.exe) | 96.4 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -70,7 +70,7 @@ x install draft
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.17.17` | ✅ latest |
+| Homebrew | `0.17.18` | ✅ latest |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ draft 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T07:37:38Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T07:29:35Z._
