@@ -20,7 +20,7 @@
 - repo: homebrew
   srcname: draft
   visiblename: draft
-  version: 0.17.17
+  version: 0.17.18
   origversion: null
   status: newest
   summary: Day 0 tool for getting your app on Kubernetes fast
@@ -35,7 +35,7 @@
   subrepo: main
   binname: draft
   visiblename: draft
-  version: 0.17.17
+  version: 0.17.18
   origversion: null
   status: newest
   licenses:
