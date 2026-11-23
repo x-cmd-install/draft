@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 103086496,
       "digest": "sha256:90ab0b46be6c0d73a92c4d688446386b6b7b4ae6f697929a98ba02b01a3964de",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-19T16:09:56Z",
       "updated_at": "2026-11-19T16:10:01Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.18/draft-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 98242338,
       "digest": "sha256:117a1ccb6b461ce4691792077194893b4de964670dba5ff37add67a4aa963c24",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-19T16:09:56Z",
       "updated_at": "2026-11-19T16:10:02Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.18/draft-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126427832,
       "digest": "sha256:e03663b85de074e7abe0b4a5e8f31a7cddbb23629b2063968207f363f42767a2",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-19T16:09:56Z",
       "updated_at": "2026-11-19T16:10:02Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.18/draft-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 94445169,
       "digest": "sha256:16b874f6a9e3c915974786929a07c53bfd437497f5b6cb02b87268ae7e3b792b",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-19T16:09:56Z",
       "updated_at": "2026-11-19T16:10:01Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.18/draft-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101132800,
       "digest": "sha256:71618c98834bee77de7f739f7e5f62aa2f5aeafc168665a6576686514b3c552a",
-      "download_count": 30,
+      "download_count": 38,
       "created_at": "2026-11-19T16:09:56Z",
       "updated_at": "2026-11-19T16:10:03Z",
       "browser_download_url": "https://github.com/Azure/draft/releases/download/v0.17.18/draft-windows-amd64.exe"
