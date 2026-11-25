@@ -47,12 +47,12 @@ Total: **37,378** lines of code across **411** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 3 | 2 | 0 | 0 | 3 |
-| last60d | 2026-09-25 | 3 | 15 | 2 | 0 | 0 | 16 |
-| 90d | 2026-08-26 | 3 | 15 | 2 | 0 | 0 | 16 |
-| last180d | 2026-05-28 | 4 | 21 | 2 | 0 | 0 | 22 |
-| 360d | 2025-11-29 | 5 | 72 | 2 | 0 | 0 | 73 |
-| last720d | 2024-12-04 | 20 | 171 | 2 | 3 | 3 | 175 |
+| 30d | 2026-10-26 | 1 | 3 | 2 | 0 | 0 | 3 |
+| last60d | 2026-09-26 | 3 | 15 | 2 | 0 | 0 | 16 |
+| 90d | 2026-08-27 | 3 | 15 | 2 | 0 | 0 | 16 |
+| last180d | 2026-05-29 | 4 | 21 | 2 | 0 | 0 | 22 |
+| 360d | 2025-11-30 | 5 | 72 | 2 | 0 | 0 | 73 |
+| last720d | 2024-12-05 | 20 | 171 | 2 | 3 | 3 | 174 |
 
 ## Release assets
 
@@ -64,14 +64,6 @@ Total: **37,378** lines of code across **411** files in the top 5 languages.
 | [draft-linux-arm64](https://github.com/Azure/draft/releases/download/v0.17.18/draft-linux-arm64) | 90.1 MiB | `native/linux/arm64` |
 | [draft-windows-amd64.exe](https://github.com/Azure/draft/releases/download/v0.17.18/draft-windows-amd64.exe) | 96.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/draft). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.17.18` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for draft lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `draft` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +73,4 @@ Install metadata for draft lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:06:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:44:32Z._
